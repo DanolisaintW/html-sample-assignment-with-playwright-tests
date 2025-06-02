@@ -53,4 +53,4 @@ describe("HTML element tests", async () => {
     const children = html.childNodes.filter((node) => node.nodeType === 1);
     expect(children.length).toBe(2);
   });
-});
+}); 
