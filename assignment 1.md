@@ -13,3 +13,5 @@
 <title>Sample project</title>
 <h1>Sample project</h1>
 <p>This is a sample project to demonstrate the use of HTML. so that should be the end of this assignment no?</p>
+
+html-sample-assignment-with-playwright-tests
